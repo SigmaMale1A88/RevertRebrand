@@ -1,5 +1,6 @@
 .banner-2QYc2d {
   background: none !important;
+  
   height: 60px;
 }
 
